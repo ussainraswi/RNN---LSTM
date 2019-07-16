@@ -7,7 +7,7 @@ RNN - LSTM Network train and prediction using MNIST dataset
 2) The below step in the code used for reloading the .pkl file and it is very much helpful while large data training.
           # # LOAD
           # rnn.load_state_dict(torch.load('rnn_lstm_param.pkl'))
-3) # # TEST -> this step used for testing purpose.
+3) TEST -> this step used for testing purpose.
 
 THANKS & REGARDS,
 USSAIN RASWI
